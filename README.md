@@ -13,7 +13,7 @@ This repository contains all the files that was used to create the program, they
 
 QT Creator was used to make and compile this program. I also used the provided tutorials as a guide.
 For help with compiling the project, I recommend reading the documentation: https://doc.qt.io/qt-5/windows-deployment.html 
-And watching this video: https://www.youtube.com/watch?v=8qozxqSZQEg&list=FLLnUzTowAxUyMciRL8oVPAg&index=64&t=111s
+And watching this video: https://youtu.be/8qozxqSZQEg
 
 Thank you for reading,
 
